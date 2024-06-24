@@ -1,0 +1,16 @@
+.qa{background-color: darkcyan;
+    border:5px solid black;
+    min-height: 95px;
+    min-width: 390px;
+    margin:3px;
+}
+.qb{background-color: aqua;
+    border:5px solid black;
+    min-height:380px;
+    min-width: 40px;
+}
+.qc{background-color: aqua;
+    border:5px solid black;
+    min-height: 380px;
+    min-width: 330px;
+}
